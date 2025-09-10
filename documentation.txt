@@ -1,2 +1,3 @@
 ajout nouvelle fonctionnlitée
 ajout de ma doc
+ajout test etant sur suite-doc2
